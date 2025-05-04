@@ -69,6 +69,7 @@ Just double-click on index.html or open it via any browser.
 ---
 
 ## 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/931711e2-d79b-46af-ac8c-a124e90b5096)
 
 
 ---
